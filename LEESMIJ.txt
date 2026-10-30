@@ -1,0 +1,21 @@
+OPERATIE ENIGMA — Groep 5/6
+Bijgewerkt op 30 oktober 2026
+
+NIEUW
+Bij elke bron staat een zoekopdracht met een duidelijke knop naar de Nederlandse Google Translate-weergave. De Nederlandse leeshulp is uitklapbaar. Lees de bronvragen voordat je naar de eindvragen van het dossier gaat. Op de tijdlijn staan korte gebeurtenissen en links naar de bijbehorende dossiers. Bronnen en opdrachten staan in de dossiers.
+
+PUBLICEREN OP GITHUB PAGES
+Pak deze ZIP uit. Upload de INHOUD naar de hoofdmap van een eigen repository, met index.html direct in die hoofdmap. Upload dus niet alleen de ZIP. Kies Settings > Pages > Deploy from a branch > main > / (root). Bewaar .nojekyll. Geen installatie of bouwstap nodig.
+
+VOORBEREIDEN
+Leg vijf fysieke dossiers met sleutelkaarten en de envelop GETUIGEN klaar. De archieflade bevat de Nederlandse printbladen. De bestaande printbladen blijven bruikbaar; de extra zoekvragen bij de externe bronnen staan op de website. Begeleid het lezen van de externe bronnen en het instellen van de machine. Werk samen met maatjes.
+
+FINALE
+Gebruik Mininigma op de tablet of de gekoppelde Cryptii M3 met stekkerbord. Neem alle vijf sleutelkaarten over. Reset de machine bij iedere nieuwe poging naar de opgegeven startletters. Na het ontcijferen komt de eindopdracht. De link naar ‘Maak je eigen Enigma-bericht’ verschijnt na het bewaren van die eindopdracht.
+
+BRONNEN
+Externe bronpagina’s en Google Translate hebben internet nodig. Vertaling van tekst in scans en afbeeldingen werkt niet altijd; gebruik dan de Nederlandse leeshulp en bekijk de scan erbij. Op de tijdlijn verwijzen de schoolversies bij 1952, 1954 en 2013 naar de getuigenenvelop, die na de finale opengaat.
+De Europakaart heeft een ondergrond met grenzen uit 2008. Ondergrond: Radosław Botev / Demis, publiek domein, via Wikimedia Commons. De achtergrondafbeeldingen zijn aangeleverd door de opdrachtgever. De foto van Dixie Arrow is afkomstig van NARA, NAID 520607, via National Park Service. Verdere brongegevens staan bij de dossiers.
+
+BEWAREN
+Antwoorden worden alleen in de huidige browser op dit apparaat bewaard. Download het onderzoek om het mee te nemen. Er worden geen antwoorden naar een docent verzonden.
